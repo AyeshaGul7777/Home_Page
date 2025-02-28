@@ -1,0 +1,61 @@
+.jpg{
+    background-image: url("274-1800x1600.jpg");
+    background-repeat: no-repeat;
+     background-size: cover;
+    width: 900px;
+    height: auto;
+max-height: 400px;
+position: relative;
+    color: white;
+}
+.btn5{
+    margin-left: 700px;
+}
+.btn6{
+    margin-left: 600px;
+}
+.btn7{
+    margin-left: 600px;
+}
+.dflex{
+    display: flex;
+
+}
+.colo{
+    color: rgb(12, 12, 238);
+}
+.btn{
+    color: blue;
+}
+.btn1{
+    color: blue;
+}
+.btn2{
+    background-color: skyblue;
+    color: white;
+}
+.btn3{
+    background-color: rgb(45, 45, 202);
+    color: white;;
+}
+.btn4{
+    background-color: gray;
+    color: white;
+}
+.width{
+    width: 65%;
+    background-color: white;
+}
+body{
+    background-color: blue;
+}
+.maindiv{
+    width: 60%;
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+}
+.marginbtn{
+    width: 35%;
+    padding-top: none;
+}
